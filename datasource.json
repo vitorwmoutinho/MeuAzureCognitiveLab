@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop X1",
+    "description": "High-performance laptop for professionals",
+    "category": "Electronics",
+    "price": 1299.99
+  },
+  {
+    "id": "2",
+    "name": "Gaming Chair",
+    "description": "Ergonomic chair designed for gaming",
+    "category": "Furniture",
+    "price": 249.99
+  }
+]
